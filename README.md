@@ -32,6 +32,9 @@ Your submission will be evaluated based on:
 - **Dashboard Design:** Clarity, aesthetics, and usability of the frontend dashboard.
 - **Insightfulness:** Effectiveness in conveying key insights about electric vehicles.
 
+## URL
+- https://analytics-dashboard1.netlify.app/
+
 ## Submission Guidelines
 
 - Fork this repository to your GitHub account.
